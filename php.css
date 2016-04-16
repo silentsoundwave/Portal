@@ -1,0 +1,30 @@
+<?php
+
+.css {
+	border: 1px solid blue;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	box-shadow: 6px 6px 4px black;
+	margin: 3%
+
+}
+
+.php {
+	background: orange;
+	border: 1px solid blue;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	color: neon;
+	padding: 10px 10px;
+}
+
+.html {
+	background: red;
+	border: 1px solid blue;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	color: neon;
+	padding: 10px 10px;
+}
+
+?>
